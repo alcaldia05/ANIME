@@ -4,7 +4,7 @@ from pyobigram.inline import *
 import tioanime
 
 
-BOT_TOKEN = '6008460161:AAGfyLa6ZXiXdD35PRuAowbB3IJFwJl3Y6Y'
+BOT_TOKEN = '6239580055:AAFrAptBUoal8raQKSPvoe5dX6DYFRGrtXI'
 
 
 def search_handle(update,bot:ObigramClient):
